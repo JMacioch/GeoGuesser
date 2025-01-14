@@ -1,0 +1,72 @@
+### Visual Studio ###
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Build folders
+bin/
+obj/
+
+# MonoGame pipeline tool output
+Content/bin/
+Content/obj/
+
+# MonoGame-specific files
+*.mgcontent
+
+# NuGet Packages
+*.nupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+
+# Auto-generated files
+Generated_Code/
+
+# Logs and debugging
+*.log
+*.tlog
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+*.pidb
+*.svclog
+*.aps
+*.vshost.*
+*.sqlite
+*.pdb
+
+# Icon cache files
+Icon.bmp
+Icon.ico
+
+# Macros and temporary settings
+*.ide.*
+*.VC.db
+*.VC.VC.opendb
+
+# MonoGame Content Pipeline temporary files
+Content.mgcb~
+*.tmp/
+
+# JetBrains Rider/Resharper files
+.idea/
+*.sln.iml
+.idea/
+*.DotSettings.user
+_ReSharper*/
+
+# Backup files
+*.bak
+*.old
+*.orig
+*.swp
+
+# OS specific
+.DS_Store
+Thumbs.db
+ehthumbs.db
